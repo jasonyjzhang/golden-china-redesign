@@ -23,19 +23,17 @@ export default function Navbar() {
         </button>
         {/** Desktop - Nav Links */}
         <div className={`hidden lg:flex lg:space-x-16 lg:items-center`}>
-          {menuItems.map((item) => {
-            return <Link to={item.path} className={`font-['Crimson_Text'] text-gold text-lg`}>{item.name}</Link>
+          {menuItems.map((item, key) => {
+            return <Link key={key} to={item.path} className={`font-['Crimson_Text'] text-gold text-lg`}>{item.name}</Link>
           })}
         </div>
       </nav>
       {/** Mobile - Nav Panel */}
       <div className={`${panelShow ? 'visible' : 'hidden'} w-screen bg-dark px-8 flex flex-col items-center space-y-8 py-8 border-y-2 border-gold fixed top-16 z-30`}>
-        {menuItems.map((item) => {
-          return <Link onClick={handleClick} to={item.path} className={`font-['Crimson_Text'] text-white text-xl`}>{item.name}</Link>
+        {menuItems.map((item, key) => {
+          return <Link key={key} onClick={handleClick} to={item.path} className={`font-['Crimson_Text'] text-white text-xl`}>{item.name}</Link>
         })}
       </div>
     </>
   )
 };
-
-

@@ -28,7 +28,6 @@ body {
   background-color: #FFB600;
 }
 
-
 .hideAlert {
   transform: translateY(-120%);
   transition: transform 0.5s linear;
