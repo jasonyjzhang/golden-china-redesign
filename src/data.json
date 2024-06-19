@@ -1,0 +1,836 @@
+{
+  "appetizers": [
+    {
+      "id": "0",
+      "dish": "Vegetable Egg Roll (3)",
+      "price": "4.75",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "1",
+      "dish": "Pork Egg Roll (3)",
+      "price": "4.75",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "2",
+      "dish": "Shrimp Egg Roll (1)",
+      "price": "1.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "3",
+      "dish": "Spring Roll (5)",
+      "price": "4.25",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "4",
+      "dish": "Crab Rangoon (10)",
+      "price": "6.75",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "5",
+      "dish": "Fried Wonton (10)",
+      "price": "5.25",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "6",
+      "dish": "Teriyaki Chicken Sticks (3)",
+      "price": "5.75",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "7",
+      "dish": "Fried or Steamed Dumpling (8)",
+      "price": "7.75",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "8",
+      "dish": "Sweet Donut (10)",
+      "price": "4.75",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "9",
+      "dish": "French Fries",
+      "price": "4.25",
+      "spicy": null,
+      "description": null
+    }
+  ],
+  "soup": [
+    {
+      "id": "0",
+      "dish": "Wonton Soup",
+      "price": [
+        "3.75",
+        "5.75"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "1",
+      "dish": "Egg Drop Soup",
+      "price": [
+        "3.75",
+        "5.75"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "2",
+      "dish": "Chicken Rice Soup",
+      "price": [
+        "3.75",
+        "5.75"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "3",
+      "dish": "Chicken Noodle Soup",
+      "price": [
+        "3.75",
+        "5.75"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "4",
+      "dish": "Hot & Sour Soup",
+      "price": [
+        "4.75",
+        "6.95"
+      ],
+      "spicy": "1",
+      "description": null
+    }
+  ],
+  "mei-fun": [
+    {
+      "id": "0",
+      "dish": "Vegetable Mei Fun",
+      "price": "9.75",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "1",
+      "dish": "Chicken Mei Fun",
+      "price": "9.75",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "2",
+      "dish": "Pork Mei Fun",
+      "price": "9.75",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "3",
+      "dish": "Beef Mei Fun",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "4",
+      "dish": "Shrimp Mei Fun",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "5",
+      "dish": "House Mei Fun",
+      "price": "10.25",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "6",
+      "dish": "Singapore Mei Fun",
+      "price": "10.25",
+      "spicy": "1",
+      "description": null
+    }
+  ],
+  "fried-rice": [
+    {
+      "id": "0",
+      "dish": "Vegetable Fried Rice",
+      "price": [
+        "6.95",
+        "9.25"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "1",
+      "dish": "Chicken Fried Rice",
+      "price": [
+        "7.25",
+        "9.75"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "2",
+      "dish": "Pork Fried Rice",
+      "price": [
+        "7.25",
+        "9.75"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "3",
+      "dish": "Beef Fried Rice",
+      "price": [
+        "7.75",
+        "10.25"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "4",
+      "dish": "Shrimp Fried Rice",
+      "price": [
+        "7.75",
+        "10.25"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "5",
+      "dish": "Ham Fried Rice",
+      "price": [
+        "8.75",
+        "10.45"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "6",
+      "dish": "House Fried Rice",
+      "price": [
+        "7.75",
+        "10.75"
+      ],
+      "spicy": null,
+      "description": null
+    }
+  ],
+  "lo-mein": [
+    {
+      "id": "0",
+      "dish": "Vegetable Lo Mein",
+      "price": [
+        "7.45",
+        "9.45"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "1",
+      "dish": "Chicken Lo Mein",
+      "price": [
+        "7.75",
+        "10.25"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "2",
+      "dish": "Pork Lo Mein",
+      "price": [
+        "7.75",
+        "10.25"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "3",
+      "dish": "Beef Lo Mein",
+      "price": [
+        "8.25",
+        "10.75"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "4",
+      "dish": "Shrimp Lo Mein",
+      "price": [
+        "8.25",
+        "10.75"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "5",
+      "dish": "House Lo Mein",
+      "price": [
+        "8.45",
+        "10.95"
+      ],
+      "spicy": null,
+      "description": null
+    }
+  ],
+  "chef-specials": [
+    {
+      "id": "0",
+      "dish": "Seafood Delight",
+      "price": "14.25",
+      "spicy": null,
+      "description": [
+        "Shirmps",
+        "scallops",
+        "crabmeat and vegetables (white sauce)"
+      ]
+    },
+    {
+      "id": "1",
+      "dish": "Happy Family",
+      "price": "14.25",
+      "spicy": null,
+      "description": [
+        "Shrimps",
+        "crabmeat",
+        "chicken",
+        "pork",
+        "beef and vegetables (brown sauce)"
+      ]
+    },
+    {
+      "id": "2",
+      "dish": "Four Season",
+      "price": "14.25",
+      "spicy": null,
+      "description": [
+        "Shrimps",
+        "chicken",
+        "pork",
+        "beef and vegetables (brown sauce)"
+      ]
+    },
+    {
+      "id": "3",
+      "dish": "Subgum Wonton",
+      "price": "14.25",
+      "spicy": null,
+      "description": [
+        "Shrimps",
+        "crabmeat",
+        "chicken",
+        "pork",
+        "vegetables with 4 fried wontons (brown sauce)"
+      ]
+    },
+    {
+      "id": "4",
+      "dish": "Dragon & Phoenix",
+      "price": "14.25",
+      "spicy": null,
+      "description": [
+        "Shrimps",
+        "chicken",
+        "vegetables and water chestnuts (brown sauce)"
+      ]
+    },
+    {
+      "id": "5",
+      "dish": "Three Musketeers",
+      "price": "14.25",
+      "spicy": "1",
+      "description": [
+        "Shrimps",
+        "chicken",
+        "pork and vegetables (spicy garlic sauce)"
+      ]
+    },
+    {
+      "id": "6",
+      "dish": "Triple Delight",
+      "price": "14.25",
+      "spicy": null,
+      "description": [
+        "Shirmps",
+        "chicken",
+        "beef and vegetables (brown sauce)"
+      ]
+    },
+    {
+      "id": "7",
+      "dish": "Szechuan Triple Delight",
+      "price": "14.25",
+      "spicy": "1",
+      "description": [
+        "Shirmps",
+        "chicken",
+        "beef and vegetables (spicy szechuan sauce)"
+      ]
+    },
+    {
+      "id": "8",
+      "dish": "Hunan Triple Delight",
+      "price": "14.25",
+      "spicy": "1",
+      "description": [
+        "Shirmps",
+        "chikcen",
+        "beef and vegetables (spicy hunan sauce)"
+      ]
+    }
+  ],
+  "combo-platters": [
+    {
+      "id": "0",
+      "dish": "Broccoli w. Garlic Sauce",
+      "price": "9.95",
+      "spicy": "1",
+      "description": null
+    },
+    {
+      "id": "1",
+      "dish": "Mixed Vegetables",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "2",
+      "dish": "Chicken Lo Mein",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "3",
+      "dish": "Chicken w. Broccoli",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "4",
+      "dish": "Chicken w. Curry",
+      "price": "9.95",
+      "spicy": "1",
+      "description": null
+    },
+    {
+      "id": "5",
+      "dish": "Chicken w. Garlic Sauce",
+      "price": "9.95",
+      "spicy": "1",
+      "description": null
+    },
+    {
+      "id": "6",
+      "dish": "Chicken w. Mixed Vegetables",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "7",
+      "dish": "General Tso's Chicken",
+      "price": "10.45",
+      "spicy": "1",
+      "description": null
+    },
+    {
+      "id": "8",
+      "dish": "Kung Pao Chicken",
+      "price": "9.95",
+      "spicy": "1",
+      "description": null
+    },
+    {
+      "id": "9",
+      "dish": "Moo Goo Gai Pan",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "10",
+      "dish": "Orange Chicken",
+      "price": "10.45",
+      "spicy": "1",
+      "description": null
+    },
+    {
+      "id": "11",
+      "dish": "Pepper Chicken w. Onion",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "12",
+      "dish": "Sesame Chicken",
+      "price": "10.45",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "13",
+      "dish": "Sweet & Sour Chicken",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "14",
+      "dish": "Teriyaki Chicken Sticks",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "15",
+      "dish": "Pork Lo Mein",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "16",
+      "dish": "Pork w. Broccoli",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "17",
+      "dish": "Pork w. Garlic Sauce",
+      "price": "9.95",
+      "spicy": "1",
+      "description": null
+    },
+    {
+      "id": "18",
+      "dish": "Pork w. Mixed Vegetables",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "19",
+      "dish": "Sweet & Sour Pork",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "20",
+      "dish": "Beef Lo Mein",
+      "price": "10.45",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "21",
+      "dish": "Beef w. Broccoli",
+      "price": "10.45",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "22",
+      "dish": "Beef w. Garlic Sauce",
+      "price": "10.45",
+      "spicy": "1",
+      "description": null
+    },
+    {
+      "id": "23",
+      "dish": "Beef w. Mixed Vegetables",
+      "price": "10.45",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "24",
+      "dish": "Pepper Steak w. Onion",
+      "price": "10.45",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "25",
+      "dish": "Shrimp Lo Mein",
+      "price": "10.45",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "26",
+      "dish": "Shrimp w. Broccoli",
+      "price": "10.45",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "27",
+      "dish": "Shrimp w. Garlic Sauce",
+      "price": "10.45",
+      "spicy": "1",
+      "description": null
+    },
+    {
+      "id": "28",
+      "dish": "Shrimp w. Loster Sauce",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "29",
+      "dish": "Shrimp w. Mixed Vegetables",
+      "price": "10.45",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "30",
+      "dish": "BBQ Boneless Ribs",
+      "price": "10.75",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "31",
+      "dish": "BBQ Spare Ribs",
+      "price": "10.75",
+      "spicy": null,
+      "description": null
+    }
+  ],
+  "local-favorites": [
+    {
+      "id": "0",
+      "dish": "Vegetable Delight",
+      "price": "9.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "1",
+      "dish": "Chicken w. Cashew Nuts",
+      "price": "12.25",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "2",
+      "dish": "Chicken w. Garlic Sauce",
+      "price": "12.25",
+      "spicy": "1",
+      "description": null
+    },
+    {
+      "id": "3",
+      "dish": "General Tso's Chicken",
+      "price": "12.75",
+      "spicy": "1",
+      "description": null
+    },
+    {
+      "id": "4",
+      "dish": "Orange Chicken",
+      "price": "12.75",
+      "spicy": "1",
+      "description": null
+    },
+    {
+      "id": "5",
+      "dish": "Sesame Chicken",
+      "price": "12.75",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "6",
+      "dish": "Sweet & Sour Chicken",
+      "price": "10.75",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "7",
+      "dish": "Szechuan Chicken",
+      "price": "12.25",
+      "spicy": "1",
+      "description": null
+    },
+    {
+      "id": "8",
+      "dish": "Beef w. Broccoli",
+      "price": "12.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "9",
+      "dish": "Pepper Steak w. Onion",
+      "price": "12.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "10",
+      "dish": "Hot & Spicy Shrimp",
+      "price": "12.75",
+      "spicy": "1",
+      "description": null
+    },
+    {
+      "id": "11",
+      "dish": "Shrimp w. Broccoli",
+      "price": "12.95",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "12",
+      "dish": "Shrimp w. Garlic Sauce",
+      "price": "12.75",
+      "spicy": "1",
+      "description": null
+    },
+    {
+      "id": "13",
+      "dish": "Sweet & Sour Shrimp",
+      "price": "10.75",
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "14",
+      "dish": "Szechuan Shrimp",
+      "price": "12.75",
+      "spicy": "1",
+      "description": null
+    }
+  ],
+  "fried-platters": [
+    {
+      "id": "0",
+      "dish": "Fried Baby Shrimps",
+      "price": [
+        "6.45",
+        "7.75",
+        "8.25",
+        "8.95"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "1",
+      "dish": "Fried Chicken Nuggets (12)",
+      "price": [
+        "5.25",
+        "7.25",
+        "7.95",
+        "8.55"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "2",
+      "dish": "Fried Chicken Wings (4)",
+      "price": [
+        "6.95",
+        "8.25",
+        "8.95",
+        "9.25"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "3",
+      "dish": "Fried Crab Sticks (9)",
+      "price": [
+        "5.25",
+        "7.25",
+        "7.95",
+        "8.55"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "4",
+      "dish": "Fried Fish (2)",
+      "price": [
+        "6.45",
+        "7.75",
+        "8.25",
+        "8.95"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "5",
+      "dish": "Fried Jumbo Shrimps (5)",
+      "price": [
+        "6.45",
+        "7.75",
+        "8.25",
+        "8.95"
+      ],
+      "spicy": null,
+      "description": null
+    },
+    {
+      "id": "6",
+      "dish": "Fried Scallops (10)",
+      "price": [
+        "5.25",
+        "7.25",
+        "7.95",
+        "8.55"
+      ],
+      "spicy": null,
+      "description": null
+    }
+  ]
+}
